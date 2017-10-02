@@ -1,0 +1,9 @@
+[Application]
+name=nl.gbraad.GodotServer
+runtime=org.freedesktop.Platform/x86_64/1.6
+sdk=org.freedesktop.Sdk/x86_64/1.6
+command=godot
+
+[Context]
+shared=network;
+filesystems=home;host
