@@ -6,4 +6,4 @@ command=godot
 
 [Context]
 shared=network;
-filesystems=home;host
+filesystems=host
